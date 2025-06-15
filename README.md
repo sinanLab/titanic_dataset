@@ -1,6 +1,6 @@
 # Usage
 ## Install the environment
-`` python
+``
 conda env create -f environment.yml
 ``
 
