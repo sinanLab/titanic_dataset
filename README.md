@@ -1,12 +1,15 @@
 # Usage
 ## Install the environment
 1. Create the environment from the environment.yml file
+   
 ``conda env create -f environment.yml``
 
-2. Activate the newly created environment
+3. Activate the newly created environment
+   
 ``conda activate deep_learning_env  # Replace with your environment name if different``
 
-3. (Optional) If you made changes and want to update the environment
+5. (Optional) If you made changes and want to update the environment
+   
 ``conda env update -f environment.yml --prune``
 
 
