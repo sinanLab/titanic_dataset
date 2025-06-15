@@ -13,7 +13,7 @@
 ``conda env update -f environment.yml --prune``
 
 
-# Analysis
+# Analysis (results)
 ## Feature importance
 
 ![image](https://github.com/user-attachments/assets/a61906d9-075b-411a-b37c-722d95358839)
